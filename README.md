@@ -58,10 +58,9 @@ The dashboard analyzes Myntra-like e-commerce sales data and answers key busines
 ## 📂 Project Structure
 
 📁 MyntraSalesAnalysis <br> <br>
-├── Customers.xlsx  <br>
-├── Products.xlsx <br>
-├── Orders.xlsx <br>
-├── Pivot.xlsx <br>
+├── Customers_Data  <br>
+├── Products_Data <br>
+├── Orders_Data <br>
 ├── Dashboard.xlsx <br>
 └── README.md <br>
 
